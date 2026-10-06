@@ -31,7 +31,7 @@ python praxe-1.1.py
 
 Меню `1`, число `197`, вихідна основа `10`, цільова основа `2`.
 
-![Переведення 197 у двійкову систему](<img width="709" height="957" alt="photo_2026-10-06_09-35-28" src="https://github.com/user-attachments/assets/710b80ea-5358-4c38-a5a6-097e7a71b58d" />)
+<img width="709" height="957" alt="photo_2026-10-06_09-35-28" src="https://github.com/user-attachments/assets/b38b2233-b7b3-42aa-bc13-1e084248240a" />
 
 Результат: `197(10) = 11000101(2)`.
 
