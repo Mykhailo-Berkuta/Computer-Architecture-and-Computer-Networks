@@ -37,7 +37,7 @@ python praxe-1.2.py
 
 Меню `4`, основа `2`, перше число `101010`, друге число `111`.
 
-![Ділення двійкових чисел](screenshots/example-division.png)
+<img width="500" alt="Ділення двійкових чисел" src="https://github.com/user-attachments/assets/7cfc3bad-b28e-45cd-b9a8-57d784d8aa93" />
 
 Результат: частка `110(2)`, остача `0`. Перевірка: `42 : 7 = 6`.
 
